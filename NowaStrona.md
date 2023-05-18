@@ -1,5 +1,5 @@
 layout: page
 title: "NowaStrona"
-permalink: /NowaStrona
+permalink: /NowaStrona/
 
 To jest moja nowa strona!
